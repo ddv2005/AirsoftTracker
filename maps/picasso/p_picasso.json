@@ -1,0 +1,13 @@
+{
+"points": [
+{ "type": 0, "color": 16776960, "name": "Office", "coordinates": [ -74.91830945685942,39.73604280105904 ]  },
+{ "type": 0, "color": 16776960, "name": "Beach", "coordinates": [ -74.91917130906181,39.73630893810271 ]  },
+{ "type": 0, "color": 16776960, "name": "Kill Box", "coordinates": [ -74.91902077980406,39.7355752412219 ]  },
+{ "type": 0, "color": 16776960, "name": "Zero", "coordinates": [ -74.9189932630288,39.73718782439224  ]  },
+{ "type": 0, "color": 16776960, "name": "Ridge", "coordinates": [ -74.91831533834912,39.73829361377636  ]  },
+{ "type": 0, "color": 16776960, "name": "Calypso", "coordinates": [ -74.91990159096781,39.73872089766842  ]  },
+{ "type": 0, "color": 16776960, "name": "Maze", "coordinates": [ -74.91634869800787,39.73697446559213  ]  },
+{ "type": 0, "color": 16776960, "name": "Congo", "coordinates": [ -74.91602222829101,39.73763561652714 ]  },
+{ "type": 0, "color": 16776960, "name": "Trenches", "coordinates": [ -74.91581248157634,39.73862186136292 ]  }
+]
+}

@@ -1,0 +1,62 @@
+{
+    "content": [
+        {
+            "converter": "Image",
+            "dataCompressed": true,
+            "dataStorage": "Embedded",
+            "destName": "images/pink",
+            "imageFormat": 7,
+            "memoryAddress": 0,
+            "memoryLoaded": true,
+            "sourcePath": "Q:/pink.png"
+        },
+        {
+            "converter": "Font",
+            "dataCompressed": false,
+            "dataStorage": "Embedded",
+            "destName": "fonts/verdana",
+            "fontCharSet": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~",
+            "fontOffset": 32,
+            "fontSize": 12,
+            "imageFormat": 2,
+            "memoryAddress": 100000,
+            "memoryLoaded": true,
+            "sourcePath": "Q:/fonts/Helvetica.ttf"
+        }
+    ],
+    "coprocessor": [
+        "CLEAR_COLOR_RGB(40, 0, 0)",
+        "CLEAR(1, 1, 1)",
+        "COLOR_RGB(116, 116, 116)",
+        "COLOR_A(100)",
+        "BEGIN(RECTS)",
+        "LINE_WIDTH(80)",
+        "VERTEX2II(97, 154, 0, 0)",
+        "VERTEX2II(222, 85, 0, 0)",
+        "END()",
+        "COLOR_RGB(255,255,255)",
+        "COLOR_A(255)",
+        "CMD_SETFONT2(15, 100000, 32)",
+        "",
+        "CMD_TEXT(160, 120, 29, OPT_CENTER, \"Change to\\nALIVE?d\")",
+        "",
+        "",
+        "DISPLAY()",
+        "",
+        "",
+        ""
+    ],
+    "displayList": [
+        ""
+    ],
+    "project": {
+        "device": 2069
+    },
+    "registers": {
+        "hSize": 320,
+        "macro": [
+            ""
+        ],
+        "vSize": 240
+    }
+}

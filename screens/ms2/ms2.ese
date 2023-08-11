@@ -1,0 +1,74 @@
+{
+    "content": [
+        {
+            "converter": "Image",
+            "dataCompressed": false,
+            "dataStorage": "Embedded",
+            "destName": "images/Untitled-2",
+            "imageFormat": 37808,
+            "memoryAddress": 0,
+            "memoryLoaded": true,
+            "sourcePath": "D:/Projects/Embedded/AirsoftTracker/maps/home/tiles_ready/2/1/0.png.png"
+        },
+        {
+            "converter": "Image",
+            "dataCompressed": false,
+            "dataStorage": "Embedded",
+            "destName": "images/0",
+            "imageFormat": 37808,
+            "memoryAddress": 157600,
+            "memoryLoaded": true,
+            "sourcePath": "D:/Projects/Embedded/AirsoftTracker/maps/home/tiles_ready/2/0/0.png.png"
+        }
+    ],
+    "coprocessor": [
+        "CLEAR_COLOR_RGB(0, 0, 0)",
+        "CLEAR(1, 1, 1)",
+        "",
+        "",
+        "--ALPHA_FUNC(GEQUAL, 248)",
+        "CMD_SETBITMAP(157600, COMPRESSED_RGBA_ASTC_4x4_KHR, 242, 242)",
+        "BITMAP_SIZE(BILINEAR, BORDER, BORDER, 242, 242)",
+        "CMD_LOADIDENTITY()",
+        "CMD_SCALE(196608, 196608)",
+        "CMD_TRANSLATE(-13959168, 0)",
+        "CMD_SETMATRIX()",
+        "BEGIN(BITMAPS)",
+        "VERTEX2II(40, 0, 0, 0)",
+        "",
+        "CMD_SETBITMAP(0, COMPRESSED_RGBA_ASTC_4x4_KHR, 242, 242)",
+        "BITMAP_SIZE(BILINEAR, BORDER, BORDER, 242, 242)",
+        "CMD_LOADIDENTITY()",
+        "CMD_SCALE(196608, 196608)",
+        "CMD_TRANSLATE(1769472, 0)",
+        "CMD_SETMATRIX()",
+        "BEGIN(BITMAPS)",
+        "VERTEX2II(40, 0, 0, 0)",
+        "",
+        "BEGIN(POINTS)",
+        "COLOR_RGB(200,255,200)",
+        "COLOR_A(64\t)",
+        "POINT_SIZE(300)",
+        "VERTEX2II(162, 119, 0, 0)",
+        "END()",
+        "",
+        "",
+        "DISPLAY()",
+        "",
+        "",
+        ""
+    ],
+    "displayList": [
+        ""
+    ],
+    "project": {
+        "device": 2069
+    },
+    "registers": {
+        "hSize": 320,
+        "macro": [
+            ""
+        ],
+        "vSize": 240
+    }
+}

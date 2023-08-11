@@ -1,0 +1,1 @@
+esptool.exe -b 921600 write_flash 0x10000 ../.pio/build/tbeam-v101/firmware.bin

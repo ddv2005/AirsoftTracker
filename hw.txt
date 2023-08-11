@@ -1,0 +1,5 @@
+1. R2 & R3 10K, R1 - 1K
+2. Molex cable 33mm
+3. Ground plane between screen & board. Capton tape+Copper Foil Tape, solder to board ground via 22 cable
+
+

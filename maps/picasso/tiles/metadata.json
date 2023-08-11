@@ -1,0 +1,46 @@
+{
+  "name": "Picasso",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "png",
+  "minzoom": "1",
+  "maxzoom": "3",
+  "scale": "1.000000",
+  "bounds": [-74.92075946, 39.73421155, -74.91292641, 39.74094236],
+  "profile": "custom",
+  "crs": "EPSG:3857",
+  "proj4": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs",
+  "extent": [-8340140.79320000, 4827393.46432224, -8339268.82140956, 4828367.83280000],
+  "tile_matrix": [
+  {
+    "id": "1",
+    "tile_size": [240, 240],
+    "origin": [-8340140.79320000, 4828367.83280000],
+    "extent": [-8340140.79320000, 4827393.46432224, -8339268.82140956, 4828367.83280000],
+    "pixel_size": [2.00000000, -2.00000000],
+    "matrix_size": [2, 3],
+    "scale_denominator": 7142.85714286
+  },
+  {
+    "id": "2",
+    "tile_size": [240, 240],
+    "origin": [-8340140.79320000, 4828367.83280000],
+    "extent": [-8340140.79320000, 4827393.46432224, -8339268.82140956, 4828367.83280000],
+    "pixel_size": [1.00000000, -1.00000000],
+    "matrix_size": [4, 5],
+    "scale_denominator": 3571.42857143
+  },
+  {
+    "id": "3",
+    "tile_size": [240, 240],
+    "origin": [-8340140.79320000, 4828367.83280000],
+    "extent": [-8340140.79320000, 4827393.46432224, -8339268.82140956, 4828367.83280000],
+    "pixel_size": [0.50000000, -0.50000000],
+    "matrix_size": [8, 9],
+    "scale_denominator": 1785.71428571
+  }
+]
+}

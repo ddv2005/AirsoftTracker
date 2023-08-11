@@ -1,0 +1,1 @@
+mkspiffs.exe -c .\config -a -s 61440 config.img

@@ -1,0 +1,1 @@
+C:\Applications\Python37\python map_image_tool.py maps.bin

@@ -1,0 +1,84 @@
+{
+    "fonts": [
+    ],
+    "images": [
+    ],
+    "lvgl": {
+        "name": "App",
+        "resolution": {
+            "height": 240,
+            "width": 320
+        },
+        "screen color": "#ffffff",
+        "widgets": [
+            {
+                "accessible": false,
+                "align": "Center",
+                "class": "lv_label",
+                "geometry": {
+                    "height": 19,
+                    "width": 320,
+                    "x": 0,
+                    "y": 2
+                },
+                "locked": false,
+                "long mode": "Dot",
+                "name": "topLabel",
+                "recolor": false,
+                "styles": [
+                    {
+                        "Text": {
+                            "text_font": "Roboto 16"
+                        },
+                        "part": 0,
+                        "state": 0
+                    },
+                    {
+                        "Text": {
+                            "text_font": "Roboto 16"
+                        },
+                        "part": 0,
+                        "state": 1
+                    },
+                    {
+                        "Text": {
+                            "text_font": "Roboto 16"
+                        },
+                        "part": 0,
+                        "state": 2
+                    },
+                    {
+                        "Text": {
+                            "text_font": "Roboto 16"
+                        },
+                        "part": 0,
+                        "state": 3
+                    },
+                    {
+                        "Text": {
+                            "text_font": "Roboto 16"
+                        },
+                        "part": 0,
+                        "state": 4
+                    },
+                    {
+                        "Text": {
+                            "text_font": "Roboto 16"
+                        },
+                        "part": 0,
+                        "state": 5
+                    },
+                    {
+                        "Text": {
+                            "text_font": "Roboto 16"
+                        },
+                        "part": 0,
+                        "state": 6
+                    }
+                ],
+                "text": "Main Menu",
+                "widget": "Label"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+1. LILYGO® TTGO T-Beam V1.1 SX1262 LORA 915MHZ ESP32 WiFi Wireless Bluetooth Module GPS NEO-M8N IPEX 18650 $41.85
+https://www.aliexpress.com/item/4001287221970.html?spm=a2g0s.9042311.0.0.1f854c4dBQY7TG
+
+2. EVE3-35A-IPS-BLH-TPN-F128 $64.5
+https://www.matrixorbital.com/eve3-35a-ips
+
+3. MCP23017 $13
+https://www.aliexpress.com/item/32957655097.html?spm=a2g0s.9042311.0.0.1f854c4dBQY7TG
+
+4. SGY-9250 $9 
+https://www.aliexpress.com/item/1904051617.html?spm=a2g0s.9042311.0.0.1f854c4dBQY7TG
+
+5. 76342-303LF x2  $2  or      CES-103-01-G-D 
+https://www.newark.com/amphenol-icc/76342-303lf/connector-rcpt-6pos-2row-2-54mm/dp/62K8357
+
+6. B3S-1000P x6 $2
+https://www.newark.com/omron-electronic-components/b3s-1000p/switch-tactile-spst-no-50ma-smd/dp/50B6363
+
+7. MOLEX 15134-0800 $2.5
+https://www.newark.com/molex/15134-0800/cable-assy-8pos-rcpt-rcpt-2/dp/33AC8053
+
+8. MOLEX 53048-0810 $1
+https://www.newark.com/molex/53048-0810/connector-header-8pos-1row-1-25mm/dp/98K9836
+
+9. SPC20493 or XG8T-0631 x2 $1
+https://www.newark.com/multicomp/spc20493/board-board-connector-header-6way/dp/93K5746
+https://www.newark.com/omron-electronic-components/xg8t-0631/connector-header-6-position-2row/dp/05M2064
+
+10. S2B-PH-SM4-TB(LF)(SN)  $0.8
+https://www.newark.com/jst-japan-solderless-terminals/s2b-ph-sm4-tb-lf-sn/wire-to-board-connector-header/dp/38K8067
+
+11. GM5539 5mm $0.5
+https://www.amazon.com/gp/product/B01N7V536K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+12. Optional DWM1000 $21
+https://www.mouser.com/ProductDetail/772-DWM1000/
+
+13. 10mmx2mm Mini Tiny Vibration Motors 10000rpm Flat Coin Button-Type Micro DC Vibrating Motor $1
+https://www.amazon.com/gp/product/B073YFR5WR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+14. HTSW-150-06-G-S
+https://www.digikey.com/en/products/detail/samtec-inc/HTSW-150-06-G-S/8085307
+
+15. Adafruit NPN Bipolar Transistors (PN2222) 
+https://www.amazon.com/gp/product/B00XW2OK7M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+case+hw $10
+glass $3
+pcb $3
+
+$133/153

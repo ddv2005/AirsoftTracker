@@ -1,0 +1,19 @@
+{
+"points": [
+{ "type": 0, "color": 16776960, "name": "Mosque", "coordinates": [ -74.1004643316022, 41.46504848793611]  },
+{ "type": 0, "color": 16776960, "name": "CQB Far", "coordinates": [ -74.10067862794062, 41.46494129354262]  },
+{ "type": 0, "color": 16776960, "name": "CQB Entrance", "coordinates": [ -74.10067862794062, 41.46494129354262]  },
+{ "type": 0, "color": 16776960, "name": "Helicopter", "coordinates": [ -74.09997828558599, 41.46478820049636]  },
+{ "type": 0, "color": 16776960, "name": "Lower City", "coordinates": [ -74.09979164079634, 41.46497371654159]  },
+{ "type": 0, "color": 16776960, "name": "CQB", "coordinates": [ -74.09979164079634, 41.46497371654159]  },
+{ "type": 0, "color": 16776960, "name": "African Village", "coordinates": [ -74.10135120356058, 41.46447225513926]  },
+{ "type": 0, "color": 16776960, "name": "Fuel Depot", "coordinates": [ -74.10135120356058, 41.46447225513926]  },
+{ "type": 0, "color": 16776960, "name": "Embassy", "coordinates": [ -74.09982305937324, 41.46389663840137]  },
+{ "type": 0, "color": 16776960, "name": "Power Lines", "coordinates": [ -74.09966993556614, 41.46352064440545]  },
+{ "type": 0, "color": 16776960, "name": "Field Entrance", "coordinates": [ -74.10008241351704, 41.46629135978078]  },
+{ "type": 0, "color": 16776960, "name": "Gate", "coordinates": [ -74.10008241351704, 41.46629135978078]  },
+{ "type": 0, "color": 16776960, "name": "Haji Camp", "coordinates": [ -74.10023398675399, 41.46629189619905]  },
+{ "type": 0, "color": 16776960, "name": "Castle", "coordinates": [ -74.09936540466151, 41.46547710750193]  },
+{ "type": 0, "color": 16776960, "name": "HKZ3", "coordinates": [ -74.09856745690514, 41.46471517156904]  }
+]
+}

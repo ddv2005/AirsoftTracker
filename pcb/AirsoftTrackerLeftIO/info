@@ -1,0 +1,104 @@
+{
+  "uuid": "1aae177d255e90e509cd34fa611a826f",
+  "path": "Offline/AirsoftTrackerLeftIO",
+  "name": "AirsoftTrackerLeftIO",
+  "content": "",
+  "created_at": "2021-01-20 21:39:33",
+  "updated_at": "2021-02-04 17:12:37",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cad456857d695d9c6f9d99b21b0b449b",
+      "title": "Left IO",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "181a4b4c83b34b8491bb9b2cdc106792": 1,
+        "4cf556fe97124ad8934102a1b113e234": 1,
+        "96da1098782146b3badbde5a666b3323": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "LEFT IO",
+          1,
+          "M2X3",
+          "J5",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1a95e0cd8cf04abab1f0a955e387d9de",
+            "uuid": "4cf556fe97124ad8934102a1b113e234"
+          }
+        ],
+        [
+          "B3S-1000P",
+          3,
+          "KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.5",
+          "SW1,SW2,SW3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C180420",
+            "BOM_Manufacturer": "Omron Electronics",
+            "BOM_Manufacturer Part": "B3S-1000P",
+            "puuid": "8fffabc80ac54d08a323684a5a5c8f59",
+            "uuid": "96da1098782146b3badbde5a666b3323"
+          }
+        ],
+        [
+          "Photoresistor",
+          1,
+          "PDV-P9XXX",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "99959802cb0742ccac25d0c38171a0c6",
+            "uuid": "181a4b4c83b34b8491bb9b2cdc106792"
+          }
+        ]
+      ],
+      "updateTime": 1611197690,
+      "createTime": 1611196798,
+      "histories": [],
+      "created_at": "2021-01-20 21:39:58",
+      "updated_at": "2021-01-20 21:54:50"
+    },
+    {
+      "uuid": "cfb83ae987d294b25e489cfe6a47367a",
+      "puuid": "1aae177d255e90e509cd34fa611a826f",
+      "title": "Left IO PCB",
+      "filename": "Left IO PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1a95e0cd8cf04abab1f0a955e387d9de": 1,
+        "8fffabc80ac54d08a323684a5a5c8f59": 3,
+        "99959802cb0742ccac25d0c38171a0c6": 1
+      },
+      "BOM": [],
+      "updateTime": 1612476757,
+      "createTime": 1611197020,
+      "histories": [],
+      "created_at": "2021-01-20 21:43:40",
+      "updated_at": "2021-02-04 17:12:37"
+    }
+  ],
+  "sort": [
+    "cad456857d695d9c6f9d99b21b0b449b"
+  ],
+  "title": "AirsoftTrackerLeftIO",
+  "foldername": "AirsoftTrackerLeftIO",
+  "schfilename": "AirsoftTrackerLeftIO.json",
+  "schfilemtime": 1611197690894
+}

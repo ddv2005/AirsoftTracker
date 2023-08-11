@@ -1,0 +1,287 @@
+{
+  "uuid": "0459f472d26ca335add64fa453cc1f9f",
+  "path": "Offline/AirsoftTracker%201.4",
+  "name": "AirsoftTracker 1.4",
+  "content": "",
+  "created_at": "2021-08-21 23:48:33",
+  "updated_at": "2023-08-11 00:01:19",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "36185aec54333e8816b9b8a91c1fc7ed",
+      "title": "MainSheet",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5657e928f1504b21b9e68062d66ba3e3": 1,
+        "0f118b0d9063400da84e04b55532a171": 1,
+        "2ba8a26395ab41a2a00f577110f8f3f7": 3,
+        "605f956fd8c24817bb840fda3296ca74": 1,
+        "4cf556fe97124ad8934102a1b113e234": 2,
+        "abe5a9481474486593dfb32d8d0fb351": 1,
+        "38386194dc0a477c83fbd24273123f35": 1,
+        "d3e19c3068574fa0b89c92528028b98d": 1,
+        "1c47b77e6d1948b89e39b944cd2029a5": 1,
+        "0b833263bcfb409d8a029dcd9c6a3b59": 1,
+        "6a469063902c4d47b9003ece9d1d25f0": 1,
+        "e9b172bbe58746a0bfc16211d1d8f989": 1,
+        "ffcc179b5c0bb89105c20dd941419970": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2N2222",
+          1,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SEMTECH",
+            "BOM_Manufacturer Part": "2N2222",
+            "BOM_Supplier Part": "C118536",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Assembly Type": "manualWeld",
+            "BOM_Paste Type": "expand",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "0b833263bcfb409d8a029dcd9c6a3b59"
+          }
+        ],
+        [
+          "MCP23017",
+          1,
+          "MCP23017",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "MCP23017",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f09420c4fd9946a583a6b15c1c5a483e",
+            "uuid": "0f118b0d9063400da84e04b55532a171"
+          }
+        ],
+        [
+          "BAT",
+          1,
+          "S2B-PH-SM4-TB",
+          "X1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ffe5780e60fc43f3861153d7ff9fe849",
+            "uuid": "1c47b77e6d1948b89e39b944cd2029a5"
+          }
+        ],
+        [
+          "10kΩ",
+          2,
+          "RES-TH_BD1.8-L3.2-P7.20-D0.4",
+          "R3,R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C714232",
+            "BOM_Manufacturer": "Huaxing Mechanical-Elec.",
+            "BOM_Manufacturer Part": "CF1/6W-10KΩ±5%T52",
+            "puuid": "97467e7cb6374f7e9dd7fc644a47cfb1",
+            "uuid": "2ba8a26395ab41a2a00f577110f8f3f7"
+          }
+        ],
+        [
+          "1kΩ",
+          1,
+          "RES-TH_BD1.8-L3.2-P7.20-D0.4",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C714232",
+            "BOM_Manufacturer": "Huaxing Mechanical-Elec.",
+            "BOM_Manufacturer Part": "CF1/6W-10KΩ±5%T52",
+            "puuid": "97467e7cb6374f7e9dd7fc644a47cfb1",
+            "uuid": "2ba8a26395ab41a2a00f577110f8f3f7"
+          }
+        ],
+        [
+          "LEFT IO",
+          1,
+          "M2X3",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1a95e0cd8cf04abab1f0a955e387d9de",
+            "uuid": "4cf556fe97124ad8934102a1b113e234"
+          }
+        ],
+        [
+          "RIGHT IO",
+          1,
+          "M2X3",
+          "J2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "1a95e0cd8cf04abab1f0a955e387d9de",
+            "uuid": "4cf556fe97124ad8934102a1b113e234"
+          }
+        ],
+        [
+          "1N4001",
+          1,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "LRC",
+            "BOM_Manufacturer Part": "1N4001",
+            "BOM_Supplier Part": "C82804",
+            "puuid": "c2803222ad4b48fb94db0de548a6280a",
+            "uuid": "6a469063902c4d47b9003ece9d1d25f0"
+          }
+        ],
+        [
+          "DWM1000",
+          1,
+          "WIRELM-TH_DWM1000",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "DecaWave",
+            "BOM_Manufacturer Part": "DWM1000",
+            "BOM_Supplier Part": "C95238",
+            "puuid": "921ff2190df246a4b1016c11071a51a1",
+            "uuid": "605f956fd8c24817bb840fda3296ca74"
+          }
+        ],
+        [
+          "MAIN BOARD",
+          1,
+          "TTGO-T-BEAM-ESP32-CONNECTOR",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "5180c2e0c1da4a75b575a8495aee30f2",
+            "uuid": "5657e928f1504b21b9e68062d66ba3e3"
+          }
+        ],
+        [
+          "IMU_9250",
+          1,
+          "IMU9250",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "bc174898c43b41b89ffbf34ee09b95a5",
+            "uuid": "38386194dc0a477c83fbd24273123f35"
+          }
+        ],
+        [
+          "Display",
+          1,
+          "MOLEX_PICOBLADE_8P",
+          "J3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "fc117d7fb2fa4d559044936821f94db6",
+            "uuid": "abe5a9481474486593dfb32d8d0fb351"
+          }
+        ],
+        [
+          "MAIN BAT",
+          1,
+          "M1X2_AWG20",
+          "J4",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "519ab30562c645fc9071b35164bd0656",
+            "uuid": "d3e19c3068574fa0b89c92528028b98d"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "CAP-TH_L5.0-W5.0-P5.08-D1.0",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C444738",
+            "BOM_Manufacturer": "AVX",
+            "BOM_Manufacturer Part": "SR211C104KAR",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Assembly Type": "manualWeld",
+            "BOM_Paste Type": "expand",
+            "puuid": "4d5b8e8e8f89428f98436df910b3190e",
+            "uuid": "e9b172bbe58746a0bfc16211d1d8f989"
+          }
+        ],
+        [
+          "470uF",
+          1,
+          "CAP-TH_BD8.0-P3.50-D1.0-FD",
+          "C3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ValuePro",
+            "BOM_Manufacturer Part": "470uf16v",
+            "BOM_Supplier Part": "C28067",
+            "puuid": "90d1b58a2d284d63b5d026a0c4e38bab",
+            "uuid": "ffcc179b5c0bb89105c20dd941419970"
+          }
+        ]
+      ],
+      "updateTime": 1616029574,
+      "createTime": 1610754181,
+      "histories": [],
+      "created_at": "2021-01-15 18:43:01",
+      "updated_at": "2021-03-17 21:06:14"
+    },
+    {
+      "uuid": "d25a02e17cf2144d6cc7e301a7d806ec",
+      "title": "MAIN PCB",
+      "filename": "MAIN PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ffe5780e60fc43f3861153d7ff9fe849": 1,
+        "bc174898c43b41b89ffbf34ee09b95a5": 1,
+        "90d1b58a2d284d63b5d026a0c4e38bab": 1,
+        "97467e7cb6374f7e9dd7fc644a47cfb1": 3,
+        "4d5b8e8e8f89428f98436df910b3190e": 1,
+        "c2803222ad4b48fb94db0de548a6280a": 1,
+        "6924b36489de4921bb29ca14bf27c33f": 1,
+        "921ff2190df246a4b1016c11071a51a1": 1,
+        "519ab30562c645fc9071b35164bd0656": 1,
+        "5180c2e0c1da4a75b575a8495aee30f2": 1,
+        "f09420c4fd9946a583a6b15c1c5a483e": 1,
+        "fc117d7fb2fa4d559044936821f94db6": 1,
+        "1a95e0cd8cf04abab1f0a955e387d9de": 2
+      },
+      "BOM": [],
+      "updateTime": 1691726479,
+      "createTime": 1610756596,
+      "histories": [],
+      "created_at": "2021-01-15 19:23:16",
+      "updated_at": "2023-08-11 00:01:19"
+    }
+  ],
+  "sort": [
+    "36185aec54333e8816b9b8a91c1fc7ed",
+    "c043ba3eac53e1a24fdc65c31791b21e"
+  ],
+  "title": "AirsoftTracker 1.4",
+  "foldername": "AirsoftTracker 1.4",
+  "schfilename": "AirsoftTracker 1.4.json",
+  "schfilemtime": 1629604113266.9019
+}
